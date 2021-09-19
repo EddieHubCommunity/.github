@@ -9,7 +9,7 @@ Here, right now on **your** screens, you are in the presence of the most inclusi
 | Member | Photo | Role |
 | ------ | ---- | ----- |
 | Hubber | <img src="./images/hubber.png" height=90> | The Mascot! |
-| Chibi  | <img src="./images/chibi.png" height=90> | Discord bot!
+| Chibi  | <img src="./images/chibi.png" height=90> | Discord bot! |
 | Eddie  | <img src="./images/eddie.jpg" height=90> | Founder of EddieHub! |
 
 This organisation is the home of *open source*! Make Pull Requests, open Issues, share ideas, help each other, fix problems! 
