@@ -1,4 +1,4 @@
-# The EddieHub Community!
+# EddieHub
 
 Here, right now on **your** screens, you are in the presence of the most inclusive *Open Source* community on the planet!
 
