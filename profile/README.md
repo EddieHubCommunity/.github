@@ -14,3 +14,4 @@ Raise an [issue to join the EddieHub GitHub organisation](https://github.com/Edd
 
 Join our Discord community [here](http://discord.eddiehub.org)   
 Subscribe our YouTube channel [here](https://www.youtube.com/user/eddiejaoude)
+![Metrics](https://metrics.lecoq.io/EddieHubCommunity?template=classic&config.timezone=Asia%2FCalcutta)
