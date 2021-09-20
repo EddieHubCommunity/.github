@@ -1,8 +1,11 @@
 <h1 align="center">EddieHub</h1>
 
-Here, right now on **your** screens, you are in the presence of the most inclusive *Open Source* community on the planet!
+<h2 align="center">Collaboration 1st, Code 2nd! </h2>
+<p align="center">
+    <img src="https://github.com/EddieHubCommunity.png" align="center" height="200" />
+</p>
 
-> Want to join the community? Open an issue [Here](https://github.com/EddieHubCommunity/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization)!
+Here, right now on **your** screens, you are in the presence of the most inclusive *Open Source* community on the planet!
 
 ## Meet a few members...
 
@@ -17,18 +20,8 @@ This organisation is the home of *open source*! Make Pull Requests, open Issues,
 ## This is a place welcome to all!
 
 <div align=center>
-
-<img src="./images/girloctocat.png" height=130> <img src="./images/boyoctocat.png" height=130>
-
+    <img src="./images/girloctocat.png" height=130> <img src="./images/boyoctocat.png" height=130>
 </div>
-<p align="center">
-Most inclusive Open Source community on the planet!
-</p>
-
-<h2 align="center">Collaboration 1st, Code 2nd! </h2>
-<p align="center">
-<img src="https://github.com/EddieHubCommunity.png" align="center" height="200" />
-</p>
 
 Raise an [issue to join the EddieHub GitHub organisation](https://github.com/EddieHubCommunity/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization).
 
