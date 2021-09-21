@@ -5,7 +5,7 @@
     <img src="https://github.com/EddieHubCommunity.png" align="center" height="200" />
 </p>
 
-Here, right now on **your** screens, you are in the presence of the most inclusive *Open Source* community on the planet!
+Here, right now on **your** screen, you are in the presence of the most inclusive *Open Source* community on the planet!
 
 ## Meet a few members...
 
