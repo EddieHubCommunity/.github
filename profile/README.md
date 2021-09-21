@@ -19,9 +19,6 @@ This organisation is the home of *open source*! Make Pull Requests, open Issues,
 
 ## This is a place welcome to all!
 
-<div align=center>
-    <img src="./images/girloctocat.png" height=130> <img src="./images/boyoctocat.png" height=130>
-</div>
 
 Raise an [issue to join the EddieHub GitHub organisation](https://github.com/EddieHubCommunity/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization).
 
