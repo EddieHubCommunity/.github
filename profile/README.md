@@ -16,6 +16,5 @@ This organisation is the home of *open source*! Make Pull Requests, open Issues,
 
 Raise an [issue to join the EddieHub GitHub organisation](https://github.com/EddieHubCommunity/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization).
 
-
 Join our Discord community [here](http://discord.eddiehub.org)   
 Subscribe our YouTube channel [here](https://www.youtube.com/user/eddiejaoude)
