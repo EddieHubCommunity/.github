@@ -3,7 +3,7 @@
 <h2 align="center">Collaboration 1st, Code 2nd! </h2>
 <p align="center">
     <img src="https://github.com/EddieHubCommunity.png" height="200" />
-    <h6 align="center"> Meet Hubber! Our Mascot! 🤝 </h6>
+    <h6> Meet Hubber! Our Mascot! 🤝 </h6>
 </p>
 
 Here, right now on **your** screen, you are in the presence of the most inclusive *Open Source* community on the planet!
