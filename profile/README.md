@@ -2,7 +2,7 @@
 
 <h2 align="center">Collaboration 1st, Code 2nd! </h2>
 <p align="center">
-    <img src="https://github.com/EddieHubCommunity.png" align="center" height="200" />
+    <img src="https://github.com/EddieHubCommunity.png" height="200" />
     <h6 align="center"> Meet Hubber! Our Mascot! 🤝 </h6>
 </p>
 
