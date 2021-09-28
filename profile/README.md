@@ -3,15 +3,19 @@
 <h2 align="center">Collaboration 1st, Code 2nd! </h2>
 <p align="center">
     <img src="https://github.com/EddieHubCommunity.png" height="200" />
-    <h6> Meet Hubber! Our Mascot! 🤝 </h6>
 </p>
 
-Here, right now on **your** screen, you are in the presence of the most inclusive *Open Source* community on the planet!
+<div align=center>
+    
+<h6> Meet Hubber! Our Mascot! 🤝 </h6>
 
+<p> Here, right now on <b> your </b> screen, you are in the presence of the most inclusive <i> Open Source </i> community on the planet! </p>
 
-This organisation is the home of *open source*! Make Pull Requests, open Issues, share ideas, help each other, fix problems! 
+<p> This organisation is the home of <i> open source </i> ! Make Pull Requests, open Issues, share ideas, help each other, fix problems! </p>
 
-## This is a place welcome to all!
+<h2> This is a place welcome to all! </h2>
+
+</div>
 
 
 Raise an [issue to join the EddieHub GitHub organisation](https://github.com/EddieHubCommunity/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization).
