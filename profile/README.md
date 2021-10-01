@@ -1,3 +1,4 @@
+<a href="https://hacktoberfest.digitalocean.com/"><img src="https://readme-typing-svg.herokuapp.com?vCenter=true&multiline=true&width=500&height=200&lines=%F0%9F%8E%8A+Hacktoberfest%2C+at+EddieHub!;Checkout+Our+Repos!%F0%9F%8E%8A" /></a>
 <h1 align="center">EddieHub</h1>
 
 <h2 align="center">Collaboration 1st, Code 2nd! </h2>
