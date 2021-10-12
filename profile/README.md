@@ -11,7 +11,7 @@
 
 <div align=center>
     
-<h6>   <img src="https://github.com/EddieHubCommunity.png" height="60" /> Meet Hubber! Our Mascot! 🤝<img src="https://github.com/EddieHubCommunity.png" height="60" /> </h6>
+<h6><img src="https://github.com/EddieHubCommunity.png" height="60" /> Meet Hubber! Our Mascot! 🤝 <img src="https://github.com/EddieHubCommunity.png" height="60" /></h6>
 
 <p> Here, right now on <b> your </b> screen, you are in the presence of the most inclusive <i> Open Source </i> community on the planet! </p>
 
