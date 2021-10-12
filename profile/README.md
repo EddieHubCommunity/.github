@@ -7,7 +7,6 @@
 
 <div align=center>
     <img src="https://user-images.githubusercontent.com/70807500/136845625-7addf1dd-ea2f-41b2-9c6b-f810f80acd07.gif" />
-
 </div>
 
 <div align=center>
