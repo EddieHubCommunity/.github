@@ -21,8 +21,15 @@
 
 </div>
 
+<p align = "center"> 
+<a href = "https://github.com/EddieHubCommunity/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization">
+<img src="https://github.com/github.png" height="50" alt = "Join the EddieHub GitHub organisation">
+</a>
 
-Raise an [issue to join the EddieHub GitHub organisation](https://github.com/EddieHubCommunity/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization).
+<a href = "http://discord.eddiehub.org">
+<img src="https://github.com/discord.png" height="50" alt = "Join our Discord community">
+</a>
 
-Join our Discord community [here](http://discord.eddiehub.org)   
-Subscribe our YouTube channel [here](https://www.youtube.com/user/eddiejaoude)
+<a href = "https://www.youtube.com/user/eddiejaoude">
+<img src="https://github.com/youtube.png" height="50" alt = "Subscribe our YouTube channel">
+</a>
