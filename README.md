@@ -8,7 +8,7 @@ For more information, please see the article on [creating a default community he
 
 This repository is also responsible for the EddieHubCommunity Org Profile Page:
 
-![image](https://user-images.githubusercontent.com/91655303/135787723-d0454dd3-fca7-4a9a-84e1-8bad597d1408.png)
+![image](https://user-images.githubusercontent.com/91655303/143764316-bb111893-a695-4d55-a911-31b839895846.png)
 
 ## About
 
