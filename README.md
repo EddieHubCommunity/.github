@@ -12,9 +12,9 @@ This repository is also responsible for the EddieHubCommunity Org Profile Page:
 
 ## About
 
-We are a Open Source community aimed at encouraging and promoting communication, best practices and technical expertise in an inclusive and welcoming environment. Learn more about us [at our website](https://www.eddiehub.org/)
+We are an Open Source community aimed at encouraging and promoting communication, best practices and technical expertise in an inclusive and welcoming environment. Learn more about us [at our website](https://www.eddiehub.org/)
 
 ## Connect
 
 - [Join our Discord community here](http://discord.eddiehub.org)
-- [Subscribe our YouTube channel](https://www.youtube.com/c/eddiejaoude)
+- [Subscribe to our YouTube channel](https://www.youtube.com/c/eddiejaoude)
