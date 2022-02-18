@@ -12,7 +12,7 @@
 
 <p> This organisation is the home of <i> open source </i> ! Make Pull Requests, open Issues, share ideas, help each other, fix problems! </p>
 
-<h2> This is a place welcome to all! 🎉</h2>
+<h2> This is a place welcome to ALL! 🎉</h2>
 
 </div>
 
