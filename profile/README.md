@@ -14,12 +14,6 @@ Eddie has always believed in giving back to the tech community with particular f
 <b>How do I join EddieHub?</b> <br>
 EddieHub has many community and cross community platforms, events and calls. It is best to sign up to the [Newsletter](http://eddiejaoude.io/newsletters) and join [Discord](http://discord.eddiehub.org/) to start collaborating with the inclusive EddieHub community. More information can be found in blog post on [getting started](https://www.eddiejaoude.io/blog-may-2021-joining-eddiehub).
 
-<b>Who is EddieHub for?</b> <br>
-Whether you are just starting your journey into tech or you are a seasoned professional, you will benefit from joining EddieHub. Open Source is about collaboration first and code second.  Members include developers, testers, DevOps, testers, technical writers, UI and UX designers.
-
-<b>I am new to coding and / or Open Source, can I still join?</b> <br>
-Yes! Starting out can sometimes feel lonely and overwhelming particularly with the amount of information out there. In EddieHub Discord you will find supportive channels such as #help and #first-timers. Also [Eddie's YouTube channel](https://youtube.com/eddiejaoude) is a good resource when starting out..
-
 <b>Can I find a mentor in EddieHub?</b> <br>
 At EddieHub we believe that everyone is a mentor and can help others in the community. This community approach is beneficial for the mentee as they are exposed to various perspectives, and for the mentor they develop many of their communication and collaboration skills. Even if you are one month into your journey, there is someone who is one day in and who can benefit from your experience and insight.
 
