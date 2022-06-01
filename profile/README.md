@@ -5,7 +5,7 @@
         <img src="https://github.com/EddieHubCommunity.png" height="60" /> Meet Hubber! Our Mascot! 🤝 <img src="https://github.com/EddieHubCommunity.png" height="60" />
     </h6>
     <p> Here, right now on <b> your </b> screen, you are in the presence of the most inclusive <i> Open Source </i> community on the planet! </p>
-    <p> This organisation is the home of <i> open source </i>! Make Pull Requests, open Issues, share ideas, help each other and make improvements!</p>
+    <p> This organisation is the home of <i> open source</i>! Make Pull Requests, open Issues, share ideas, help each other and make improvements!</p>
 </div>
 <h2>Suggested steps to get started</h2>
 <ul>
