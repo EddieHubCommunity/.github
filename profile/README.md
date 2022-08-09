@@ -11,7 +11,7 @@
 <ul>
     <li>1. Join the EddieHub GitHub Org by raising an <a href="https://github.com/EddieHubCommunity/support/issues/new?assignees=&amp;labels=invite+me+to+the+organisation&amp;template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization">issue</a> (you will receive an invitation)</li>
     <li>2. Join our EddieHub <a href="http://discord.eddiehub.org">Discord</a> community, where you can chat with the community and also ask any questions</li>
-    <li>3. Practice the Open Source workflow by adding your name to our <a href="https://github.com/EddieHubCommunity/hacktoberfest-practice">hacktoberfest-practice</a> repo (instructions are in the repo)</li>
+    <li>3. Practice the Open Source workflow by adding your name to our <a href="https://github.com/EddieHubCommunity/hacktoberfest-practice">hacktoberfest-practice</a> repo (instructions are in the repo and/or watching this <a href="https://www.youtube.com/watch?v=8B_JWf7pG20">video</a> by <a href="http://github.com/eddiejaoude">Eddie</a>)</li>
     <li>4. Get more GREEN squares by adding your profile to our <a href="https://github.com/EddieHubCommunity/LinkFree">LinkFree</a> (Open Source alternative to LinkTree) for your custom EddieHub url</li>
 </ul>
 <p>Learn more about GitHub, Open Source and EddieHub by subscribing to Eddie on <a href="http://youtube.com/eddiejaoude">YouTube</a></p>
