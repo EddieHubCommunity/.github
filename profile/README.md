@@ -17,5 +17,6 @@
     <li>6. Have a look at our Good First Issue Finder <a href="https://github.com/EddieHubCommunity/good-first-issue-finder">project</a></li>
     <li>7. Append your Discord/Twitter username with "EddieHub" (for example "Eddie Jaoude | EddieHub")</li>
 </ul>
+<p>Customise your GitHub profile with Eddie's <a href="http://eddiejaoude.io/course-github-profile-landing">FREE course</a></p>
 <p>Learn more about GitHub, Open Source and EddieHub by subscribing to Eddie on <a href="http://youtube.com/eddiejaoude">YouTube</a></p>
 </p>
